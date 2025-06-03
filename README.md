@@ -10,4 +10,4 @@
 Lior8289/Lior8289 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Lior’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=liormorali&show_icons=true&theme=radical)
+![Lior’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=lior8289&show_icons=true&theme=radical)
