@@ -36,4 +36,4 @@ My GitHub is probably going to be a mix of:
 
 **backend systems • AI experiments • data projects • simulations • music-related ideas • random things I decided I absolutely had to build at 2 AM**
 
-🌐 **Portfolio:** https://liormorali.com
+Check my Guitar Theory Website : https://liguitar.liormorali.com/
